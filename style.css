@@ -96,7 +96,7 @@ p {
   margin-bottom: 2rem;
 }
 
-.container {
+main {
   background-color: var(--clr-white);
   width: 320px;
   height: 497px;
